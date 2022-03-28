@@ -1,0 +1,27 @@
+{
+  "name": "web-scheduler",
+  "version": "0.0.1",
+  "description": "",
+  "author": "GleamingStar (tjdduddl10@gmail.com)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "recoil": "^0.6.1",
+    "styled-components": "^5.3.5",
+    "styled-reset": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/react": "^17.0.43",
+    "@types/react-dom": "^17.0.14",
+    "@types/styled-components": "^5.1.24",
+    "typescript": "^4.6.3"
+  }
+}
